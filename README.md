@@ -26,4 +26,4 @@ This project implements a Generative Adversarial Network (GAN) to generate synth
 - The dataset is preprocessed and normalized for training.
 
 ## Contact
-For any inquiries, contact [your-email@example.com](mailto:your-email@example.com) or open an issue.
+For any inquiries, contact davezhangg@gmail.com or davecthio@gmail.com.
